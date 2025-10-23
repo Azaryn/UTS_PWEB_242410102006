@@ -5,8 +5,7 @@
 ---
 
 ## 📘 Deskripsi Singkat
-**Taskboard – AzarynStud** merupakan website yang dirancang untuk membantu mahasiswa dalam mengatur dan mengelola berbagai tugas akademik maupun aktivitas sehari-hari.  
-Dibangun menggunakan **Laravel** dengan tampilan yang sederhana dan responsif, aplikasi ini memudahkan mahasiswa untuk mencatat, memantau, dan menyelesaikan setiap tugas dengan lebih teratur.
+**Taskboard – AzarynStud** merupakan website yang dirancang untuk membantu mahasiswa dalam mengatur dan mengelola berbagai tugas akademik maupun aktivitas sehari-hari. Dibangun menggunakan **Laravel** dengan tampilan yang sederhana, aplikasi ini memudahkan mahasiswa untuk mencatat, memantau, dan menyelesaikan setiap tugas dengan lebih teratur.
 
 ---
 
