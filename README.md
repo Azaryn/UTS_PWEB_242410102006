@@ -12,9 +12,8 @@
 ## 🚀 Fitur Utama
 - 📅 **Manajemen Tugas** – Tambahkan, ubah, dan pantau daftar tugas atau kegiatan harian.  
 - ✅ **Pemantauan Progres** – Lihat daftar tugas yang sudah atau belum diselesaikan.  
-- 🎓 **Antarmuka Ramah Mahasiswa** – Desain sederhana dan mudah digunakan, disesuaikan dengan kebutuhan mahasiswa.  
-- 🌐 **Desain Responsif** – Dapat diakses dengan nyaman di perangkat desktop maupun mobile.  
-
+- 🎓 **Antarmuka Ramah Mahasiswa** – Desain sederhana dan mudah digunakan, disesuaikan dengan kebutuhan mahasiswa.
+- 
 ---
 
 ## 🧠 Tujuan
