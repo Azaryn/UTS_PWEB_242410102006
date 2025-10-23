@@ -38,4 +38,4 @@ Dikembangkan oleh **Rafi Hadianto Aribowo (242410102006)** sebagai bagian dari *
 ---
 
 ## 📄 Moto
-> _"Tetap teratur, tetap produktif — selesaikan satu tugas dalam satu waktu."_
+> _"Tetap teratur, tetap produktif. Yuk selesaikan satu tugas dalam satu waktu."_
